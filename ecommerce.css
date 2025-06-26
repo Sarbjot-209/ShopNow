@@ -1,0 +1,65 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css");
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: white;
+    color: white;
+    line-height: 1.2;
+   
+}
+header{
+    background-color: #e6e6fa;
+    height: 50px;
+}
+i{
+    color: black;
+    float: right;
+    font-size: 2rem;
+   
+}
+h1{
+    color: #b3cee5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+div.gallery {
+    margin: 15px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+}
+ 
+div.gallery:hover {
+    border: 1px solid #777;
+}
+ 
+div.gallery img {
+    width: 100%;
+    height: auto;
+}
+ 
+div.desc {
+    padding: 15px;
+    text-align: center;
+    color: black;
+}
+p{
+    color: black;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+#button{
+    width: 100px;
+    height: 30px;
+   
+}
+h3{
+    color:black;
+}
+#image{
+    width: 180px;
+    height: 150px;
+}
+
